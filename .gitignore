@@ -16,3 +16,4 @@ env.bak/
 venv.bak/
 pythonenv*
 .DS_Store
+media_root/**
